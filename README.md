@@ -53,11 +53,15 @@ ID #2: 311434047
 
    Note: please use colab.
    
-   The following files are needed to be uploaded under '/content' dir (which is the default):
-   1. classification_datasets-20200531T065549Z-001.zip
-   2. results/experiments_results.csv (this file is not required if run_nested_cross_validation flag is set to 'True')
-   3. ClassificationAllMetaFeatures.csv
-   
+   1.	Download notebook Applied-Machine-Learning-Final-Project-300822954-31143407.ipynb
+   2.	Download classification_datasets-20200531T065549Z-001.zip
+   3.	Download results/experiments_results.csv
+   4.	Download ClassificationAllMetaFeatures.csv
+   5.	The following files are needed to be uploaded to the notebook under '/content' dir (which is the default):
+      •	classification_datasets-20200531T065549Z-001.zip
+      •	results/experiments_results.csv (this file is not required if run_nested_cross_validation flag is set to 'True')
+      •	ClassificationAllMetaFeatures.csv
+  
    In order to run the experiment you should set 'run_nested_cross_validation = True' under 'settings' cell in the notebook. Please note that this might take a while. 
    
 2. Directly: 
