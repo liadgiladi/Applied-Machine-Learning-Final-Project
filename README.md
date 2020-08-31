@@ -64,7 +64,9 @@ ID #2: 311434047
         * ClassificationAllMetaFeatures.csv
    7. Run all cells
   
-   In order to run the experiment you should set 'run_nested_cross_validation = True' under 'settings' cell in the notebook. Please note that this might take a while. 
+   There are two options to run the notebook:
+     * Skip the nested-cross-validation section and run only the processing results section + meta learning section. Default option. 
+     * Run the whole exercise (nested-cross-validation section + processing the results section + meta learning section). In order to that, please set in the settings cell (#2         cell) ‘run_nested_cross_validation = True’. Please note that this might take a while.
    
 2. Directly: 
    run flow.py file.
