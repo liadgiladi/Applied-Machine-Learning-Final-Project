@@ -49,7 +49,7 @@ ID #2: 311434047
 
 # How to run:
 
-1. Notebook: 
+1. Notebook - Applied-Machine-Learning-Final-Project-300822954-31143407.ipynb: 
 
    Note: please use colab.
    
