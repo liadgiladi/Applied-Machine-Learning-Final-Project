@@ -61,6 +61,6 @@ ID #2: 311434047
    In order to run the experiment you should set 'run_nested_cross_validation = True' under 'settings' cell in the notebook. Please note that this might take a while. 
    
 2. Directly: 
-
+   run flow.py file.
    Note: this option is less favorable and allow to run the experiment only, does not support other sections of the project, such as statistical hypothesis test, meta-learning-          model, graphs, etc.
 
